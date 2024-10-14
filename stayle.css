@@ -1,0 +1,39 @@
+body{
+    background:url(5447438.png);
+    background-size:contain;
+}
+
+h1{
+    text-align: center;
+    font-style: oblique;
+    margin-top: 160px;
+}
+input{
+  margin-left:40%;
+  padding-left: 10px;
+  padding-right: 100px;
+ padding-bottom: 10px;
+ margin-bottom: 5px;
+ background-color: rgba(16, 14, 14, 0.457);
+ color:aliceblue;
+}
+section{
+    background: rgba(214, 200, 194, 0.402);
+    margin:200px;
+    padding-bottom: 30px;
+   
+   
+   
+}
+.submit{
+    background: rgba(0, 128, 0, 0.47);
+}
+input:valid{
+    background: rgba(88, 213, 88, 0.575);
+}
+.oplie{
+ padding-left: 50%;
+ color:rgba(214, 221, 222, 0.84)
+ 
+}
+
